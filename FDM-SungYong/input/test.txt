@@ -1,0 +1,34 @@
+diffusion coeff.: 1.430E-07
+dx: 0.001
+dy: 0.001
+dt: 1.71
+Node Type --[E:Essential Boundary]--[N:Natural Boundary]--[D:Domain]--
+E	E	E	E	E	E	E	E	E	E	E	E	E
+E	D	D	D	D	D	D	D	D	D	D	D	E
+E	D	D	D	D	D	D	D	D	D	D	D	E
+E	D	D	D	D	D	D	D	D	D	D	D	E
+E	D	D	D	D	D	D	D	D	D	D	D	E
+E	D	D	D	D	D	D	D	D	D	D	D	E
+E	D	D	D	D	D	D	D	D	D	D	D	E
+E	D	D	D	D	D	D	D	D	D	D	D	E
+E	D	D	D	D	D	D	D	D	D	D	D	E
+E	D	D	D	D	D	D	D	D	D	D	D	E
+E	D	D	D	D	D	D	D	D	D	D	D	E
+E	D	D	D	D	D	D	D	D	D	D	D	E
+E	D	D	D	D	D	D	D	D	D	D	D	E
+E	E	E	E	E	E	E	E	E	E	E	E	E
+Initial Condition
+100	100	100	100	100	100	100	100	100	100	100	100	100
+100	5	5	5	5	5	5	5	5	5	5	5	50
+100	5	5	5	5	5	5	5	5	5	5	5	50
+100	5	5	5	5	5	5	5	5	5	5	5	50
+100	5	5	5	5	5	5	5	5	5	5	5	50
+100	5	5	5	5	5	5	5	5	5	5	5	50
+100	5	5	5	5	5	5	5	5	5	5	5	50
+50	5	5	5	5	5	5	5	5	5	5	5	50
+50	5	5	5	5	5	5	5	5	5	5	5	50
+50	5	5	5	5	5	5	5	5	5	5	5	50
+50	5	5	5	5	5	5	5	5	5	5	5	50
+50	5	5	5	5	5	5	5	5	5	5	5	50
+20	5	5	5	5	5	5	5	5	5	5	5	50
+100	0	0	0	0	0	0	0	0	0	0	0	0
